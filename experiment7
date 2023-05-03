@@ -1,0 +1,12 @@
+diabetes<-read.csv("D:\\folders\\dwhdm\\diabetes.csv")
+a<-c(diabetes$age)
+Mean<-mean(a)
+Minimum<-min(diabetes$age)
+Maximum<-max(diabetes$age)
+MinMax<-(a-Minimum)/(Maximum-Minimum)
+decimalscaling=(A/100)
+Mean
+Minimum
+Maximum
+MinMax
+decimalscaling

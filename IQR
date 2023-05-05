@@ -1,0 +1,6 @@
+names<-c("ram","shyam","kumar")
+age<-c(23,24,35)
+marks<-(88,78,25)
+df<-data.frame(names,age,marks)
+IQR(df $age)
+write.csv(df,"datafr.csv)

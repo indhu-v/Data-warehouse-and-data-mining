@@ -1,0 +1,4 @@
+diabetes1<-read.csv("D:\\folder\\dwhdm\\diabetes1.csv")
+diabetes1<-table(diabetes1 $age,diabetes1 $insulin)
+diabetes1
+chisq.test(disbetes1)

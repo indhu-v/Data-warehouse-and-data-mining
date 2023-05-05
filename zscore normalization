@@ -1,0 +1,6 @@
+diabetes1<-read.csv("D:\\folder\\dwhdm\\diabetes1.csv")
+a<-c(diabetes$age)
+Mean<-mean(a)
+std<-sd(a)
+Zscore<-(a-Mean)/std
+zscore

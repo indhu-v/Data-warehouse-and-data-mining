@@ -1,0 +1,5 @@
+x<-7
+y<-3
+z<-56
+result<-max(x,y,z)
+cat("maximum value :",result)
